@@ -1,6 +1,6 @@
-# Crystal-Collector
+# My Games
 
-- In this game, the player will have to guess the answer, just like in Hangman. However, the player will guess which numbers instead of letters.
+- Welcome to a collection of games I helped design and code.
 
 ## Here's how the app works:
 - There will be four crystals displayed as buttons on the page.
