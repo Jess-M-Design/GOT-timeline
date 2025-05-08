@@ -3,13 +3,13 @@
 - Welcome to a collection of games I helped design and code.
 
 ## Technologies Used:
-- HTML, CSS, Javascript, Modal, Bootstrap
+- HTML, CSS, Javascript, Bootstrap
 
 ## Live link:
-- link: https://jmarrano09.github.io/Crystal-Collector/public/crystal.html
-- link: https://Jess-M-Design.github.io/Crystal-Collector-Game/public/hangman.html
-- https://htmlpreview.github.io/?https://github.com/jess-m-design/My-Games/master/index.html
+- Link: https://jess-m-design.github.io/My-Games/index.html
 
 ## Additional:
-- Be sure to further check out this game out in The Ultimate Game!
 - Link: https://github.com/jmarrano09/The-Ultimate-Game
+- Link: https://jmarrano09.github.io/Crystal-Collector/public/crystal.html
+- Link: https://Jess-M-Design.github.io/Crystal-Collector-Game/public/hangman.html
+- Link: https://htmlpreview.github.io/?https://github.com/jess-m-design/My-Games/master/index.html
