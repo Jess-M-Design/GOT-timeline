@@ -1,12 +1,10 @@
-# My Games
-
-- Welcome to a collection of games I helped design and code.
+# A Game of Thrones Timeline
 
 ## Technologies Used:
 - HTML, CSS, Javascript, Bootstrap
 
 ## Live link:
-- Link: https://jess-m-design.github.io/My-Games/index.html
+- Link: https://jess-m-design.github.io/GOT-timeline/index.html
 
 ## Additional:
 - Link: https://github.com/jmarrano09/The-Ultimate-Game
